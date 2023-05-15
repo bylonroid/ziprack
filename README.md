@@ -4,7 +4,7 @@ Simple python CLI tool for cracking password of a password protected zip file us
 
 
 INSTALLATION
-``` git clone https://github.com/bylonroid/ziprack ```
-``` go to the directory with cd ziprack ```
-``` python ziprack.py ```
-``` add the location of zip file and wordlist ```
+``` git clone https://github.com/bylonroid/ziprack
+ go to the directory with cd ziprack
+ python ziprack.py
+ add the location of zip file and wordlist ```
